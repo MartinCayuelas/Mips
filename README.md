@@ -1,2 +1,2 @@
 # Mips
-Calcaul Pi en MIPS
+Calcul Pi en MIPS
